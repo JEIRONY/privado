@@ -38,7 +38,7 @@
   
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github.com/JEIRONY/privado)](https://repl.it/github.com/JEIRONY/privado)
+[![Run on Repl.it](https://repl.it/badge/github/JEIRONY/privado)](https://repl.it/github/JEIRONY/privado)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JEIRONY/privado)
